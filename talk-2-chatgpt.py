@@ -1,3 +1,5 @@
+# Developed using GitHub Co-pilot services
+
 import gradio as gr # pip install gradio
 import openai # pip install openai
 from gtts import gTTS # pip install gTTS
