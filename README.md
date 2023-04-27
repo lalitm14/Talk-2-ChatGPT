@@ -13,14 +13,15 @@ https://youtu.be/uVrhM3Tmlvw
 
 << Installation Steps >>
 1. Download the code to your Windows Device
-2. Ensure this device is setup for rynnin the Python .py file
+2. Ensure your Windows device is setup for running the Python .py program file
 3. Launch the "talk-2-chatgpt.py" program file.
-4. click on the local http:// URL that this program provides, which may take a few seconds.
+4. Click on the local http:// URL that this program provides, which may take a few seconds.
 
 << Using the App >>
-1. click on recording button.
+1. Click on recording button.
 2. Record your query.
 3. Stop recording.
 4. Submit recording.
 
-<< Workflow of the system >> The Program GUI will capture your speech query. It store this speech in a audio file locally on your windows device. The program will send this audio file to OpenAI wisper speech-to-text conversation AI model. Upon receving this converted response, it will be stored in a message array. This will array members together will form the input prompt that this progrma will not send to the OpenAI ChatGPT-n model. The reponse rececived is appended to the same message array referred to in the previous sentences. This progressively aggregating conversation, enables ChatGPT to main the all important context of the conversation. Additianlly, the immediate response is converted back to speech using google GTTS (text-to-speech) library. 
+<< Workflow of the system >> 
+The Program GUI will capture your speech query. It store this speech in a audio file locally on your windows device. The program will send this audio file to OpenAI Wisper API for using the speech-to-text conversation AI model services. Upon receving this converted response from th eWisper AI model, this program will store the message in a message array. The agrregated array members together will form the input prompt that this progrma will not send to the OpenAI ChatGPT-n model. The reponse rececived from the ChatGPT-n model is appended to the same message array referred to in the previous sentences. This progressively aggregating conversation, enables ChatGPT to main the all important context of the on-going conversation. Additianlly, the immediate response is converted back to speech using google GTTS (text-to-speech) library and read back to the user thorugh the Windows device speaker. Also the entire prompt text that is progressively growing is printed in the app on the text box on the right for user reading reference.
