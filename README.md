@@ -5,7 +5,7 @@
 << Description >> This is a demonstration using a rudimentary application written in few lines of Python code to demonstrate the very human like conversation with the AI Language model is possible, in this case ChatGPT. The benefits maybe limitless including improved productivity and accessibility. The code itself has been developed using the GitHub Co-pilot, including the profuse comments to make the reading and understanding of this short code significantly more friendly. This is a short code, but this Co-pilot assisted coding and commenting is a huge productivity gain for developers. Saving their time to focus on the code logic and features, without sacrificing the readability and the ease of maintenance of the code itself.
 
 Here is a short ~4 minutes video depicting the experience of talking to OpenAI ChatGPT model in a YouTube video :
-[![YouTube Video](Talk-2-ChatGPT-thumb.jpg?raw=true "YouTube video")] https://youtu.be/uVrhM3Tmlvw
+[![YouTube Video](Talk-2-ChatGPT-thumb.jpg?raw=true "YouTube video")](https://youtu.be/uVrhM3Tmlvw)
 
 << Installation Steps >>
 1. Download the code to your Windows Device
