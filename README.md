@@ -7,8 +7,6 @@
 Here is a short ~4 minutes video depicting the experience of talking to OpenAI ChatGPT model in a YouTube video :
 [![YouTube Video](readme-video-thumb.png?raw=true "YouTube video")] https://youtu.be/uVrhM3Tmlvw
 
-[![YouTube Video](readme-video-thumb.png?raw=true "YouTube video")](https://www.youtube.com/watch?v=uVrhM3Tmlvw-CL8)
-
 << Installation Steps >>
 1. Download the code to your Windows Device
 2. Ensure your Windows device is setup for running the Python .py program file
